@@ -9,7 +9,7 @@ By [Duckloveshack](https://www.github.com/Duckloveshack)
 * Weekly updates and public releases
 * A free SDK right in the installation archive
 * An open-source code
-* An easy and user-friendly GUI
+* An easy and user-friendly UI
 
 ## Support
 If you find a bug, or if you messed up something, contact me on my [Gmail](https://mail.google.com/mail/?view=cm&fs=1&to=duckloveshack@gmail.com)
