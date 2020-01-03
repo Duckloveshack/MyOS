@@ -7,7 +7,6 @@ By [Duckloveshack](https://www.github.com/Duckloveshack)
 * Ascii boot-logo
 * Support for x32/x64/x86 architecture
 * Weekly updates and public releases
-* A free SDK right in the installation archive
 * An open-source code
 * An easy and user-friendly UI
 
