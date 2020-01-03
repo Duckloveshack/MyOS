@@ -3,10 +3,6 @@
 MyOS for Windows 6.x or later
 By [Duckloveshack](https://www.github.com/Duckloveshack)
 
-## New to MyOS!
-* MyOS Demo! Before installing MyOS, you can use a Demonstration of MyOS
-* Orange! This little tool exploits MyOS and enables JailBreak!
-
 ## The biggest changes over the other Windows Command Operating Systems:
 * Ascii boot-logo
 * Support for x32/x64/x86 architecture
