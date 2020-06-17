@@ -6,7 +6,6 @@ By [Duckloveshack](https://www.github.com/Duckloveshack)
 ## The biggest changes over the other Windows Command Operating Systems:
 * Ascii boot-logo
 * Support for x32/x64/x86 architecture
-* Weekly updates and public releases
 * An open-source code
 * An easy and user-friendly UI
 
