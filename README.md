@@ -3,10 +3,9 @@
 MyOS for Windows 7 / 8 / 10
 By [Duckloveshack](https://www.github.com/Duckloveshack)
 
-## The biggest changes over the other Windows Command Operating Systems:
-* Support for 32-bit / 64-bit OSes
+## The biggest changes over the other Batch "Operating Systems":
 * An easy and user-friendly UI
-* Constant Updates at most once every half a year
+* Useful features that are missing on other batch OSes
 
 ## Support
 If you find a bug, or if you messed up something, contact me on my [Gmail](https://mail.google.com/mail/?view=cm&fs=1&to=duckloveshack@gmail.com)
